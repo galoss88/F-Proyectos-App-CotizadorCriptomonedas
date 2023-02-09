@@ -1,0 +1,1 @@
+tecnologias: react, styled-components
